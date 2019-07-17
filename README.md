@@ -1,2 +1,3 @@
 # ELC-github
-English Language Corner is a web application which uses odoo to develop. About English institution.
+English Language Corner is a web application about English institution.
+It uses Odoo 11 and python for the development.
